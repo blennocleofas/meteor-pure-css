@@ -1,0 +1,13 @@
+{
+
+  "name": "purecss",
+  "description": "Pure Css Framework Yahoo",
+  "homepage": "https://github.com/blennocleofas/meteor-pure-css",
+  "author": "Blenno Cleofas <blenno@live.com>",
+  "version": "2.5.1",
+  "git": "https://github.com/blennocleofas/meteor-pure-css.git",
+  "packages": {
+  }
+
+
+}
